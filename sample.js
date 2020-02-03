@@ -55,6 +55,10 @@ let html = `
   <td>${condition2}</td>
 </tr>
 </table>
+
+<input type="button" style="width:50%;padding:50px;font-size:30px;" value="文字を大きくする" />
+
+
 `;
 
 element.innerHTML = html;
